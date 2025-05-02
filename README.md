@@ -37,7 +37,10 @@
 ## 🎬 Favorite moments in tech
 > *"Pepe from muppets `sudo rm -rf /*` incident of 1987."*
 > (![image](https://github.com/user-attachments/assets/0508e5c2-d06e-4de0-805c-5722c71c408f)
-> *"ãr ãr arãrãrãr fredi faz bear"*  
+>
+> *"ãr ãr arãrãrãr fredi faz bear"*
+> ![image](https://github.com/user-attachments/assets/c3dd0d95-97c2-4081-88cf-c620a692587b)
+
 
 ---
 
