@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a2ecf2b-5502-4e60-8a99-b99291861749)# 🐸 Gabriel's Coding Journey  
+# 🐸 Gabriel's Coding Journey  
 > *"Nǐ hǎo, wǒ jiào Gabriel, wǒ zhèngzài xuéxí Zhōngwén.)*  
 ![Mandarin Badge](https://img.shields.io/badge/-学习中文-FF0000?logo=duolingo)
 > 
