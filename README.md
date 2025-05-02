@@ -17,7 +17,7 @@
 
 ### **🖥️ Systems & More**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-*"I `sudo` what YOU."*  
+*"I `sudo` YOU."*  
 
 ### **🎮 Game Dev Basics**  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)  
