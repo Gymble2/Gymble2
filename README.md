@@ -38,12 +38,6 @@
 > *"Pepe from muppets `sudo rm -rf /*` incident of 1987."*
 > (![image](https://github.com/user-attachments/assets/0508e5c2-d06e-4de0-805c-5722c71c408f)
 >
-> *"ãr ãr arãrãrãr fredi faz bear"*
-> 
-![image](https://github.com/user-attachments/assets/d6ae65ad-b699-4f7a-8be6-1cd72f400fc6)
-
-
-
 ---
 
 ## 📫 How to Reach Me  
