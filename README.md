@@ -35,9 +35,10 @@
 ---
 
 ## 🎬 Favorite moments in tech
-> *"Pepe `sudo rm -rf /*` incident of 1987."*
+> *"Pepe `sudo rm -rf /*` incident of 1987."*                        
 > (![image](https://github.com/user-attachments/assets/0508e5c2-d06e-4de0-805c-5722c71c408f)
 >
+> 
 ---
 
 ## 📫 How to Reach Me  
