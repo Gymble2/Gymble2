@@ -21,7 +21,7 @@
 
 ### **🎮 Game Dev Basics**  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)  
-*"Still trying to make a Muppet din real life but its more hard than i think."*  
+*"Still trying to make a Muppet in real life but its more hard than i think."*  
 
 ### **🤖 Python Automation**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
